@@ -1,3 +1,4 @@
+altgraph==0.17.2
 awscli-local==0.20
 boto3==1.24.5
 botocore==1.27.5
@@ -15,8 +16,11 @@ httplib2==0.20.4
 idna==3.3
 jmespath==1.0.0
 localstack-client==1.35
+macholib==1.16
+modulegraph==0.19.2
 oauthlib==3.2.0
 protobuf==4.21.2
+py2app==0.28.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.9

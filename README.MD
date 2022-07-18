@@ -12,3 +12,6 @@
 8. `virtualenv .env && source .env/bin/activate && pip install -r requirements.txt`
 9. Set params
 10. `python3 main.py`
+
+https://stackoverflow.com/questions/17196637/no-file-creation-with-logging-module-in-py2app-mac-application
+https://py2app.readthedocs.io/en/latest/tutorial.html (use python3)
