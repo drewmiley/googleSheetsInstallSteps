@@ -1,3 +1,9 @@
 .DS_Store
 .idea
 credentials.json
+authorized_user.json
+build
+dist
+.env
+log.txt
+.eggs
